@@ -1,10 +1,8 @@
 # Bandit-Based Task Assignment (BBTA)
 
 The code is for the following two papers:
-  - [Bandit-based task assignment for heterogeneous crowdsourcing](http://arxiv.org/abs/1507.05800)<br>
-  Accepted to [*Neural Computation*](http://www.mitpressjournals.org/loi/neco).
-  - [Task selection for bandit-based task assignment in heterogeneous crowdsourcing](http://arxiv.org/abs/1507.07199)<br>
-  Submitted.
+  - [Bandit-based task assignment for heterogeneous crowdsourcing](http://arxiv.org/abs/1507.05800). Accepted to [*Neural Computation*](http://www.mitpressjournals.org/loi/neco).
+  - [Task selection for bandit-based task assignment in heterogeneous crowdsourcing](http://arxiv.org/abs/1507.07199). Submitted.
 
 ## Usage
 
