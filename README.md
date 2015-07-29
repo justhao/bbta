@@ -2,7 +2,7 @@
 
 ## Usage
 
-Comming soon...
+Coming soon...
 
 ![alt text](https://github.com/justhao/bbta/blob/master/demo.png "Results on Toy Data")
 
